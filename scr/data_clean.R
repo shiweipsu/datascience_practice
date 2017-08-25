@@ -62,3 +62,5 @@ kelvin_to_celsius <- function(temp) {
 }
 
 fahr_to_kelvin(32) %>% kelvin_to_celsius()
+
+a <- 3
